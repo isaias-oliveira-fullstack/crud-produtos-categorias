@@ -1,0 +1,25 @@
+# Dependências
+node_modules/
+.venv/
+
+# Build TypeScript
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sistema operacional / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+.vercel
+.env*.local
